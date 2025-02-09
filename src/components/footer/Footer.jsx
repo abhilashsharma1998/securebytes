@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
 import "./footer.css"
 
 const Footer = () => {
@@ -11,16 +10,7 @@ const Footer = () => {
             <a href="mailto:info@securebytes.com" className="email">
               info@securebytes.com
             </a>
-            {/* <div className="footer-content-text">
-              Ready to secure your cloud infrastructure?
-            </div> */}
-            {/* <div className="footer-content-text">Reach out to us today!</div>
-            <a href="mailto:info@securebytes.com" className="email">
-              info@securebytes.com
-            </a>
-            <Link to="" className="email">
-              +1-800-SECURE
-            </Link> */}
+      
           </div>
 
           <div className="footer-section">
